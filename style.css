@@ -16,6 +16,20 @@ body{
   color: #fff;
   background: #3C87FF;
 }
+
+.header{
+font-family: 'Courier New', Courier, monospace;
+background-color: #444444;
+color: #6d8af0;  
+border: 2px solid rgb(30, 250, 250);
+display: inline-block;
+border-radius: 25px;
+position: absolute;
+padding: 10px 40px;
+top: 50px;
+left: 485px;
+}
+
 .wrapper{
   max-width: 405px;
   padding: 28px 0 30px;
